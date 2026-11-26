@@ -12,14 +12,7 @@
 ## 📌 Project Overview
 Many households and graduating students possess functional items (textbooks, laptops, jackets, study desks) they no longer need, while incoming and under-resourced students struggle to afford them. **GiveLoop** eliminates financial barriers by connecting donors directly with recipients in a safe, moderated environment.
 
----
-
-## 📸 Screenshots
-*(Screenshots will be captured and added here upon UI deployment)*
-- **Browse Page & Multi-Filter Grid**: `[Screenshot Placeholder: /public/screenshots/browse.png]`
-- **Item Detail & Donor View**: `[Screenshot Placeholder: /public/screenshots/detail.png]`
-- **Donate Form with Image Upload & Compression**: `[Screenshot Placeholder: /public/screenshots/donate.png]`
-- **Donor & Requester Dashboard**: `[Screenshot Placeholder: /public/screenshots/dashboard.png]`
+---`
 
 ---
 
