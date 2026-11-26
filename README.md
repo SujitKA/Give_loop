@@ -12,7 +12,7 @@
 ## 📌 Project Overview
 Many households and graduating students possess functional items (textbooks, laptops, jackets, study desks) they no longer need, while incoming and under-resourced students struggle to afford them. **GiveLoop** eliminates financial barriers by connecting donors directly with recipients in a safe, moderated environment.
 
----`
+---
 
 ---
 
@@ -27,6 +27,8 @@ Many households and graduating students possess functional items (textbooks, lap
 | **Validation** | Zod 4 + React Hook Form | Dual-layer schema validation on client and server |
 | **Icons** | Lucide React | Lightweight, accessible SVG icon library |
 | **Testing** | Vitest & Playwright | Fast unit tests + browser-level e2e test flows |
+
+---
 
 ---
 
