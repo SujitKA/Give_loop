@@ -40,3 +40,4 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 VIVA_NOTES.md
+DEMO_SCRIPT.md
